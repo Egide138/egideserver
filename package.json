@@ -1,0 +1,20 @@
+{
+  "name": "pratice",
+  "version": "1.0.0",
+  "description": "testing",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "egide",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "wifi-name": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
